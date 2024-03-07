@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="africaZAR">ZAR</string>
+    <string name="russianRUB">RUB</string>
+    <string name="singaporeSGD">SGD</string>
+    <string name="turkishTRY">TRY</string>
+    <string name="africa">South African\nrand</string>
+    <string name="russian">Russian\nrouble</string>
+    <string name="singapore">Singapore\ndollar</string>
+    <string name="turkish">Turkish\nlira</string>
+    <string name="flag">flag</string>
+    <string name="stolA">Каир</string>
+    <string name="stolS">Сингапур</string>
+    <string name="stolT">Анкара</string>
+    <string name="stolR">Москва</string>
+
+
+    <string name="americaVAL">USA</string>
+    <string name="makedoniaVAL">MKD</string>
+    <string name="koreaVAL">KOR</string>
+    <string name="america">Unaited state of America\ dollar</string>
+    <string name="makedonia">Makedonia\ dinar</string>
+    <string name="korea">South Korea\ won</string>
+
+    <string name="stolAm">Вашингтон</string>
+    <string name="stolK">Сеул</string>
+    <string name="stolM">Скопье</string>
+
+
+
+
+
+
+
+</resources>
